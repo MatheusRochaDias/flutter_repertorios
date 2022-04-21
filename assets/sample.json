@@ -1,0 +1,34 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+      {
+          "id": 1,
+          "text": "Minha vó me dizia",
+          "author": "Jotinha",
+          "category": {
+              "id": 1,
+              "name": "Meio Ambiente"
+          }
+      },
+      {
+          "id": 2,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet egestas orci",
+          "author": "Autor desconhecido",
+          "category": {
+              "id": 1,
+              "name": "Meio Ambiente"
+          }
+      },
+      {
+          "id": 3,
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet egestas orci",
+          "author": "Autor desconhecido",
+          "category": {
+              "id": 1,
+              "name": "Meio Ambiente"
+          }
+      }
+  ]
+}
